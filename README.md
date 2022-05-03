@@ -1,2 +1,2 @@
 # React-Lorem-Ipsum-Generator
-Created with CodeSandbox
+This is an application with React which generates Lorem ipsum paragraphs.
